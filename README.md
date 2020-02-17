@@ -3,6 +3,8 @@
 Hi, guys. Here are my python practise notes.
 And I will share my practices in next days.
 
+print("click to 简体中文")
+
 # Part1(2020.02.09)
 ``` python
 # Use while loop to create guessing game
@@ -41,5 +43,4 @@ else:
 print("Game Over!")
 ```
 There is a little Guessing-Game writen by python. 
-If you guys have some interesting, try to play with it in your IDE!
-
+If you guys have some interests, try to play with it in your IDE!
