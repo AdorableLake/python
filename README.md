@@ -1,9 +1,6 @@
-# python
-
 Hi, guys. Here are my python practise notes.
 And I will share my practices in next days.
 
-print("click to 简体中文")
 
 # Part1(2020.02.09)
 ``` python
