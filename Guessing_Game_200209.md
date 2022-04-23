@@ -37,4 +37,4 @@ else:
 
 print("Game Over!")
 ```
-# There is a little Guessing-Game writen by python. If you guys have some interests, try to play with it in your IDE!
+## There is a little Guessing-Game writen by python. If you have some interests, try to play with it in your IDE!
