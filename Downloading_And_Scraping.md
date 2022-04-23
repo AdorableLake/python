@@ -1,3 +1,4 @@
+```python
 Downloading And Scraping The Contents Of A Web Page
 
 !pip install bs4
@@ -26,3 +27,4 @@ for link in soup.find_all('img'):# in html image is represented by the tag <img>
     print(link)
     print(link.get('src'))
 # Scrape all images
+```
