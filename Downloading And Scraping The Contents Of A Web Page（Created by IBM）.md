@@ -1,3 +1,4 @@
+```python
 #Downloading And Scraping The Contents Of A Web Page
 ##We Download the contents of the web page:
 url = "http://www.ibm.com"
@@ -102,15 +103,14 @@ dataframe_list[5]
 ##We can also use the match parameter to select the specific table we want. If the table contains a string matching the text it will be read.
 pd.read_html(url, match="10 most densely populated countries", flavor='bs4')[0]    
 
+```
 
+Authors: Ramesh Sannareddy
 
-Authors
-Ramesh Sannareddy
+Other Contributors: Rav Ahuja
 
-Other Contributors
-Rav Ahuja
-
-Change Log
-Date (YYYY-MM-DD)	Version	Changed By	Change Description
 2020-10-17	0.1	Joseph Santarcangelo Created initial version of the lab	
-Copyright © 2020 IBM Corporation. This notebook and its source code are released under the terms of the MIT License.
+
+Copyright © 2020 IBM Corporation. 
+
+This notebook and its source code are released under the terms of the MIT License.
