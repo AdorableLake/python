@@ -1,6 +1,8 @@
 # Part1(2020.02.09)
 
-## Use while loop to create guessing game
+## Target: Use _while_ loop to create a guessing game.
+
+```python
 secret_word = "westlake"
 running = True
 guess = ""
@@ -34,4 +36,5 @@ else:
     print("YOU DID NOT BAD!")
 
 print("Game Over!")
+```
 # There is a little Guessing-Game writen by python. If you guys have some interests, try to play with it in your IDE!
