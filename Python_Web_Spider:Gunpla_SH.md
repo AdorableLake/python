@@ -4,6 +4,7 @@
 在以上链接基础做了删改
 ————————————————
 
+```python
 # -*- codeing = utf-8 -*-
 from bs4 import BeautifulSoup  # 网页解析，获取数据
 import re  # 正则表达式，进行文字匹配`
@@ -96,3 +97,4 @@ if __name__ == "__main__":  # 当程序执行时
      main()
     # init_db("G_base.db")
      print("搞定！")
+```
